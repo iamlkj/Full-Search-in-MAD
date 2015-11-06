@@ -1,0 +1,24 @@
+ 
+****************************************
+Report : area
+Design : MC2
+Version: D-2010.03-SP5
+Date   : Fri Jun 10 08:09:29 2011
+****************************************
+
+Library(s) Used:
+
+    slow (File: /cad/designkit/CBDK_IC_Contest_v2.0/SynopsysDC/db/slow.db)
+
+Number of ports:               21
+Number of nets:              2213
+Number of cells:             1868
+Number of references:         142
+
+Combinational area:       16951.933833
+Noncombinational area:    15792.609919
+Net Interconnect area:    288308.142853
+
+Total cell area:          32744.543752
+Total area:               321052.686604
+1
